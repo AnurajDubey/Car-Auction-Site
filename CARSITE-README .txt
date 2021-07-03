@@ -3,7 +3,7 @@ A car auction site using JSP (while running on an Apache Tomcat Server) which di
 more managerial functionalities.
 
 
-EVERYTHING is stored in a mySQL database. 
+EVERYTHING is stored in a mySQL database. The .sql file is attached and includes the entire schema of the database. 
 
 
 
